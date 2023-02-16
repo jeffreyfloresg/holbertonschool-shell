@@ -1,2 +1,2 @@
-#!/bin/bashi
+#!/bin/bash
 find -type f -o d -exec chown vincent:staff {} +
