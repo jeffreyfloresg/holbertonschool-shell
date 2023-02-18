@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -printf '.' | wc -c
+find <expr> -type f -printf '.' | wc -c
