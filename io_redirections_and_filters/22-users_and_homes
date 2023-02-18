@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f13
+cut -d: -f1 -f2
