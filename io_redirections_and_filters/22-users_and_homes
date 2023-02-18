@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f13 /etc/passwd
+cut -d: -f1,-f3 /etc/passwd
